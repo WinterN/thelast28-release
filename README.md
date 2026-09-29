@@ -2,4 +2,4 @@
 
 Build generada automáticamente; no editar a mano. Se juega en https://wintern.github.io/thelast28-release/
 
-Commit de origen: `99139d0` — Script de publicación web y filtros de exportación corregidos
+Commit de origen: `cb6d7d5` — Opción de letra más grande
