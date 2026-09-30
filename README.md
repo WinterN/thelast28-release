@@ -2,4 +2,4 @@
 
 Build generada automáticamente; no editar a mano. Se juega en https://wintern.github.io/thelast28-release/
 
-Commit de origen: `8bd7d97+cambios` — Voces balbuceadas, gestos, narrador y reloj en marcha al hablar
+Commit de origen: `b968d5f` — Sistema de voces
