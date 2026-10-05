@@ -2,4 +2,4 @@
 
 Build generada automáticamente; no editar a mano. Se juega en https://wintern.github.io/thelast28-release/
 
-Commit de origen: `5f3d50f` — Cinemáticas por planos: la fuga por el muro y el gancho
+Commit de origen: `7e41b33` — Mapa ampliado: salida del módulo, control de acceso y oficinas
